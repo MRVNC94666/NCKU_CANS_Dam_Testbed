@@ -1,0 +1,11 @@
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\bin\Debug\Searching App.exe.config
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\bin\Debug\Searching App.exe
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\bin\Debug\Searching App.pdb
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\obj\Debug\Searching App.csproj.AssemblyReference.cache
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\obj\Debug\Searching App.csproj.SuggestedBindingRedirects.cache
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\obj\Debug\Searching_App.Form1.resources
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\obj\Debug\Searching_App.Properties.Resources.resources
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\obj\Debug\Searching App.csproj.GenerateResource.cache
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\obj\Debug\Searching App.csproj.CoreCompileInputs.cache
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\obj\Debug\Searching App.exe
+C:\Users\cans\source\repos\CANS_Dam_Testbed\Searching App\obj\Debug\Searching App.pdb
